@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-06T06:35:22.097Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.76" etag="73Iv3ZaOnNU7p1K4AkIU" version="20.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-06T06:36:41.466Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.76" etag="dbB8WSSTKZM1xhGJlFAD" version="20.8.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="851" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -238,31 +238,40 @@
           <mxGeometry x="80" y="300" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w2PkJwAq_LyLqTt0G6Ef-3" value="修改阶段&lt;br&gt;采购计划" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="200" y="200" width="80" height="30" as="geometry" />
+          <mxGeometry x="190" y="200" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w2PkJwAq_LyLqTt0G6Ef-4" value="修改&lt;br&gt;月采购计划" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="200" y="245" width="80" height="30" as="geometry" />
+          <mxGeometry x="190" y="245" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w2PkJwAq_LyLqTt0G6Ef-5" value="修改&lt;br&gt;日采购计划" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="200" y="300" width="80" height="30" as="geometry" />
+          <mxGeometry x="190" y="300" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w2PkJwAq_LyLqTt0G6Ef-8" value="审核阶段&lt;br&gt;采购计划" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="310" y="200" width="80" height="30" as="geometry" />
+          <mxGeometry x="300" y="200" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w2PkJwAq_LyLqTt0G6Ef-9" value="审核阶段&lt;br&gt;采购计划" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="310" y="250" width="80" height="30" as="geometry" />
+          <mxGeometry x="300" y="250" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w2PkJwAq_LyLqTt0G6Ef-10" value="审核日&lt;br&gt;采购计划" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="310" y="300" width="80" height="30" as="geometry" />
+          <mxGeometry x="300" y="300" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w2PkJwAq_LyLqTt0G6Ef-11" value="发布阶段&lt;br&gt;采购计划" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="410" y="200" width="80" height="30" as="geometry" />
+          <mxGeometry x="400" y="200" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w2PkJwAq_LyLqTt0G6Ef-12" value="发布月&lt;br&gt;采购计划" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="414" y="250" width="80" height="30" as="geometry" />
+          <mxGeometry x="404" y="250" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w2PkJwAq_LyLqTt0G6Ef-13" value="发布日&lt;br&gt;采购计划" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="414" y="300" width="80" height="30" as="geometry" />
+          <mxGeometry x="404" y="300" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w2PkJwAq_LyLqTt0G6Ef-14" value="发布阶段&lt;br&gt;采购计划" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="500" y="200" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w2PkJwAq_LyLqTt0G6Ef-15" value="发布月&lt;br&gt;采购计划" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="500" y="250" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w2PkJwAq_LyLqTt0G6Ef-16" value="发布日&lt;br&gt;采购计划" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="500" y="300" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
