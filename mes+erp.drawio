@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-05T02:24:44.542Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54" etag="9d-m9vTA4HbGUgCsgRfr" version="20.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-06T06:34:24.416Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.76" etag="dZczXHRfToTCzp2DtB3K" version="20.8.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="907" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="851" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -216,11 +216,44 @@
         <mxCell id="67DfNJz796cae_3MI913-47" value="&lt;p style=&quot;margin: 0cm; font-family: DengXian;&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;&quot; lang=&quot;EN-US&quot;&gt;Z&lt;sub&gt;11&lt;/sub&gt;&lt;/span&gt;&lt;span style=&quot;&quot; lang=&quot;EN-US&quot;&gt;&lt;sup&gt;&amp;nbsp;&lt;/sup&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Z&lt;sub&gt;12 &lt;/sub&gt;................ Z&lt;sub&gt;1n&lt;/sub&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0cm; font-family: DengXian;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;sub&gt;&lt;br&gt;&lt;/sub&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0cm; font-family: DengXian;&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color);&quot; lang=&quot;EN-US&quot;&gt;Z&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;21&lt;/sub&gt;&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color);&quot; lang=&quot;EN-US&quot;&gt;&lt;sup style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;&lt;/sup&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;Z&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;22&amp;nbsp;&lt;/sub&gt;................ Z&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;2n&lt;/sub&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0cm; font-family: DengXian;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br&gt;&lt;/sub&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0cm; font-family: DengXian;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 12px;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color);&quot; lang=&quot;EN-US&quot;&gt;Z&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;21&lt;/sub&gt;&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color);&quot; lang=&quot;EN-US&quot;&gt;&lt;sup style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;&lt;/sup&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;border-color: var(--border-color); font-size: 12px; background-color: initial;&quot;&gt;Z&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;22&amp;nbsp;&lt;/sub&gt;................ Z&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;2n&lt;/sub&gt;&lt;/span&gt;&lt;br&gt;&lt;/sub&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0cm; font-family: DengXian;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); font-size: 12px; background-color: initial;&quot;&gt;&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br&gt;&lt;/sub&gt;&lt;/span&gt;&lt;/sub&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0cm; font-family: DengXian;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); font-size: 12px; background-color: initial;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); margin: 0cm; font-family: DengXian;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 12px;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color);&quot; lang=&quot;EN-US&quot;&gt;Z&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;m1&lt;/sub&gt;&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color);&quot; lang=&quot;EN-US&quot;&gt;&lt;sup style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;&lt;/sup&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;border-color: var(--border-color); font-size: 12px; background-color: initial;&quot;&gt;Z&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;m2&amp;nbsp;&lt;/sub&gt;................ Z&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;mn&lt;/sub&gt;&lt;/span&gt;&lt;/sub&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1820" y="76.25" width="150" height="83.75" as="geometry" />
         </mxCell>
-        <mxCell id="njYk10X9vC9XWmvO97f1-0" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rotation=-181;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="njYk10X9vC9XWmvO97f1-0" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rotation=-181;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1960" y="63" width="19" height="93.25" as="geometry" />
         </mxCell>
-        <mxCell id="njYk10X9vC9XWmvO97f1-2" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="njYk10X9vC9XWmvO97f1-2" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="50" y="200" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="w2PkJwAq_LyLqTt0G6Ef-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w2PkJwAq_LyLqTt0G6Ef-0" target="w2PkJwAq_LyLqTt0G6Ef-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w2PkJwAq_LyLqTt0G6Ef-0" value="阶段采购计划" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="200" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w2PkJwAq_LyLqTt0G6Ef-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w2PkJwAq_LyLqTt0G6Ef-1" target="w2PkJwAq_LyLqTt0G6Ef-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w2PkJwAq_LyLqTt0G6Ef-1" value="月采购计划" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="245" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w2PkJwAq_LyLqTt0G6Ef-2" value="日采购计划" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="300" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w2PkJwAq_LyLqTt0G6Ef-3" value="修改阶段&lt;br&gt;采购计划" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="200" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w2PkJwAq_LyLqTt0G6Ef-4" value="修改&lt;br&gt;月采购计划" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="245" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w2PkJwAq_LyLqTt0G6Ef-5" value="修改&lt;br&gt;日采购计划" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="300" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w2PkJwAq_LyLqTt0G6Ef-8" value="审核阶段&lt;br&gt;采购计划" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="200" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w2PkJwAq_LyLqTt0G6Ef-9" value="审核阶段&lt;br&gt;采购计划" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="250" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w2PkJwAq_LyLqTt0G6Ef-10" value="审核日&lt;br&gt;采购计划" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="300" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
