@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-09T03:42:07.136Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.76" etag="45_zAJHAwMo1l9RXlJKd" version="20.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-09T03:44:17.768Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.76" etag="c7Bs9yskS605JDlzKhbh" version="20.8.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="850" dy="1792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -996,7 +996,7 @@
         <mxCell id="mhu3dZwa_4iewGyEIVv5-19" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;rounded=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mhu3dZwa_4iewGyEIVv5-7" target="mhu3dZwa_4iewGyEIVv5-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1400" y="830" />
+              <mxPoint x="1400" y="823" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1034,7 +1034,22 @@
           <mxGeometry x="1241" y="636.13" width="79" height="29.49" as="geometry" />
         </mxCell>
         <mxCell id="mhu3dZwa_4iewGyEIVv5-18" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1280" y="770" width="20" height="120" as="geometry" />
+          <mxGeometry x="1270.5" y="770" width="19.5" height="106.25" as="geometry" />
+        </mxCell>
+        <mxCell id="mhu3dZwa_4iewGyEIVv5-20" value="排序看板1备料" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1180" y="770" width="90" height="21.25" as="geometry" />
+        </mxCell>
+        <mxCell id="mhu3dZwa_4iewGyEIVv5-21" value="排序看板2备料" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1180" y="791.25" width="90" height="21.25" as="geometry" />
+        </mxCell>
+        <mxCell id="mhu3dZwa_4iewGyEIVv5-22" value="………………" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1179" y="812.5" width="90" height="21.25" as="geometry" />
+        </mxCell>
+        <mxCell id="mhu3dZwa_4iewGyEIVv5-23" value="排序看板n备料" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1180" y="833.75" width="90" height="21.25" as="geometry" />
+        </mxCell>
+        <mxCell id="mhu3dZwa_4iewGyEIVv5-24" value="通用看板备料" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1180" y="855" width="90" height="21.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
