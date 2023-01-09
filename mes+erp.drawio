@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-09T04:46:28.655Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.76" etag="aQrNrkFiDvJqRjyn0HDO" version="20.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-09T08:27:57.612Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.76" etag="xziIXQVUwECMPqT6rdgT" version="20.8.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="850" dy="1792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1103,8 +1103,14 @@
         <mxCell id="mhu3dZwa_4iewGyEIVv5-36" value="物料款项交付" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="620" y="710" width="80" height="31.25" as="geometry" />
         </mxCell>
+        <mxCell id="mhu3dZwa_4iewGyEIVv5-43" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mhu3dZwa_4iewGyEIVv5-38" target="mhu3dZwa_4iewGyEIVv5-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mhu3dZwa_4iewGyEIVv5-38" value="车间扫描接收" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="490" y="772.5" width="80" height="31.25" as="geometry" />
+        </mxCell>
+        <mxCell id="mhu3dZwa_4iewGyEIVv5-42" value="拣配至生产线工位" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="364" y="860" width="80" height="31.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
