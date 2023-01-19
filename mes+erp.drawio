@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-19T12:12:59.122Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.55" etag="Kbn23Ex_vgmnT2CEpGQS" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-19T12:18:28.680Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.55" etag="cXpRm4oFuiLx_i2xIaoy" version="20.8.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1221" dy="1876" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1376,6 +1376,9 @@
         <mxCell id="F9nso608MxLRqTN25Kpl-67" value="付款手续办理" style="text;html=1;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1011" y="1007.5" width="90" height="21.25" as="geometry" />
         </mxCell>
+        <mxCell id="F9nso608MxLRqTN25Kpl-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="F9nso608MxLRqTN25Kpl-68" target="F9nso608MxLRqTN25Kpl-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="F9nso608MxLRqTN25Kpl-68" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1610" y="660" width="180" height="109" as="geometry" />
         </mxCell>
@@ -1414,6 +1417,24 @@
         </mxCell>
         <mxCell id="F9nso608MxLRqTN25Kpl-89" value="……" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1710" y="721.25" width="90" height="21.25" as="geometry" />
+        </mxCell>
+        <mxCell id="F9nso608MxLRqTN25Kpl-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="F9nso608MxLRqTN25Kpl-90" target="F9nso608MxLRqTN25Kpl-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F9nso608MxLRqTN25Kpl-90" value="填写信息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1660" y="828.75" width="80" height="31.25" as="geometry" />
+        </mxCell>
+        <mxCell id="F9nso608MxLRqTN25Kpl-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="F9nso608MxLRqTN25Kpl-92" target="F9nso608MxLRqTN25Kpl-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F9nso608MxLRqTN25Kpl-92" value="签订合同" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1660" y="888.75" width="80" height="31.25" as="geometry" />
+        </mxCell>
+        <mxCell id="F9nso608MxLRqTN25Kpl-94" value="支付（保证金+租金/保里程费）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1745" y="980" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="F9nso608MxLRqTN25Kpl-96" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;选定方案&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1700" y="747.75" width="90" height="21.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
