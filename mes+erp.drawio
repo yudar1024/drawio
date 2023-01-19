@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-19T12:11:14.087Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.55" etag="FeJpliUwkEGEsqtnwxj5" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-19T12:12:59.122Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.55" etag="Kbn23Ex_vgmnT2CEpGQS" version="20.8.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1221" dy="1876" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1397,8 +1397,23 @@
         <mxCell id="F9nso608MxLRqTN25Kpl-73" value="Y" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1545" y="762.5" width="40" height="18.75" as="geometry" />
         </mxCell>
-        <mxCell id="F9nso608MxLRqTN25Kpl-75" value="排序看板1备料" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1191" y="750" width="90" height="21.25" as="geometry" />
+        <mxCell id="F9nso608MxLRqTN25Kpl-75" value="可充可换" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1640" y="700" width="90" height="21.25" as="geometry" />
+        </mxCell>
+        <mxCell id="F9nso608MxLRqTN25Kpl-85" value="仅可换" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1640" y="733.13" width="90" height="21.25" as="geometry" />
+        </mxCell>
+        <mxCell id="F9nso608MxLRqTN25Kpl-86" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1690" y="681.29" width="20" height="59.96" as="geometry" />
+        </mxCell>
+        <mxCell id="F9nso608MxLRqTN25Kpl-87" value="月租+度电" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1710" y="678.75" width="90" height="21.25" as="geometry" />
+        </mxCell>
+        <mxCell id="F9nso608MxLRqTN25Kpl-88" value="保里程" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1710" y="700" width="90" height="21.25" as="geometry" />
+        </mxCell>
+        <mxCell id="F9nso608MxLRqTN25Kpl-89" value="……" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1710" y="721.25" width="90" height="21.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
