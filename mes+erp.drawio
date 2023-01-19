@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-19T11:52:36.266Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.55" etag="ovsOTjf4NAKNuF0BMrKL" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-19T11:53:46.280Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.55" etag="RieDenw576tNtUvTe-nb" version="20.8.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="512" dy="1870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="1876" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -1193,7 +1193,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F9nso608MxLRqTN25Kpl-11" value="下线检测调试" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="470" y="940" width="80" height="31.25" as="geometry" />
+          <mxGeometry x="470" y="948.75" width="80" height="31.25" as="geometry" />
         </mxCell>
         <mxCell id="F9nso608MxLRqTN25Kpl-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="F9nso608MxLRqTN25Kpl-13" target="F9nso608MxLRqTN25Kpl-17">
           <mxGeometry relative="1" as="geometry" />
@@ -1205,13 +1205,23 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F9nso608MxLRqTN25Kpl-14" value="检测合格" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="600" y="940" width="80" height="31.25" as="geometry" />
+          <mxGeometry x="600" y="948.75" width="80" height="31.25" as="geometry" />
+        </mxCell>
+        <mxCell id="F9nso608MxLRqTN25Kpl-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="F9nso608MxLRqTN25Kpl-17" target="F9nso608MxLRqTN25Kpl-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="840" y="884" />
+              <mxPoint x="840" y="936" />
+              <mxPoint x="340" y="936" />
+              <mxPoint x="340" y="980" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="F9nso608MxLRqTN25Kpl-17" value="返换/返修/返置" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="729" y="868.75" width="91" height="31.25" as="geometry" />
         </mxCell>
         <mxCell id="F9nso608MxLRqTN25Kpl-19" value="成平车入库" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="729" y="940" width="91" height="31.25" as="geometry" />
+          <mxGeometry x="729" y="948.75" width="91" height="31.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
