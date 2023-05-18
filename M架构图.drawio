@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2023-05-18T07:50:56.516Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="03GDbZDVicDEhQQJrpVg" version="21.0.6" type="github"><diagram name="第 1 页" id="GkUpRgWgr7WP9c18bXzO">jZJdT4MwFIZ/zblcslE3yiWbuMVEY7IL42WlR9qkUNJ1g/nrBTkdkMXEq7bPe3q+ge3Kdu9ErV6sRAPRUrbAHiGKVksedUdPrgOJYzaAwmlJRiM46m8MP4metcTTzNBba7yu5zC3VYW5nzHhnG3mZl/WzKPWosA7cMyFuafvWno1UB7FIz+gLlSIvNokg1KKYEyVnJSQtpkglgHbOWv9cCvbHZq+eaEvw7+nP9RbYg4r/58Pn8nBq8szntLFlreXzevH/m1BXi7CnKlgyNaQZsATyDikDPi6J0kCKac6/DU0x9lzJbH3vwK2bZT2eKxF3qtNtw4dU740JN/nG4Kj89hOEOW/R1uid9fOhNQNtZJ2KXqgdzOZDCE1GUpMTNAuFDfHY7u6C3UsPMfJ/GqT/WbZDw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-05-18T08:19:28.447Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="NLmGPPfcF7PJV_SSv1xZ" version="21.0.6" type="github">
+  <diagram name="第 1 页" id="GkUpRgWgr7WP9c18bXzO">
+    <mxGraphModel dx="1909" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="T-1Ek754ZsedJuR4Ua0C-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="562.5" width="580" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="b9HthvJesA-B8xv6NYGP-1" value="安装器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-10" y="410" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="T-1Ek754ZsedJuR4Ua0C-1" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.machine;" vertex="1" parent="1">
+          <mxGeometry x="130" y="585" width="20.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="T-1Ek754ZsedJuR4Ua0C-2" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.machine;" vertex="1" parent="1">
+          <mxGeometry x="270" y="585" width="20.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="T-1Ek754ZsedJuR4Ua0C-3" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.machine;" vertex="1" parent="1">
+          <mxGeometry x="393" y="585" width="20.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="T-1Ek754ZsedJuR4Ua0C-4" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.physical_upstream_router;" vertex="1" parent="1">
+          <mxGeometry x="190" y="585" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="T-1Ek754ZsedJuR4Ua0C-5" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.physical_upstream_router;" vertex="1" parent="1">
+          <mxGeometry x="320" y="585" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="T-1Ek754ZsedJuR4Ua0C-6" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.machine;" vertex="1" parent="1">
+          <mxGeometry x="513" y="585" width="20.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="T-1Ek754ZsedJuR4Ua0C-7" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.physical_upstream_router;" vertex="1" parent="1">
+          <mxGeometry x="440" y="585" width="50" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
