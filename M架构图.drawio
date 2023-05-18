@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-18T08:46:26.562Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="nN8kWcLK5JF4kgBd1sfH" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-18T08:50:31.479Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="Uf2_cUTFqjfHTC3hP5D6" version="21.0.6" type="github">
   <diagram name="第 1 页" id="GkUpRgWgr7WP9c18bXzO">
     <mxGraphModel dx="1909" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -59,7 +59,7 @@
           <mxGeometry x="-130" y="650" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="T-1Ek754ZsedJuR4Ua0C-26" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="350" width="330" height="200" as="geometry" />
+          <mxGeometry x="40" y="350" width="400" height="200" as="geometry" />
         </mxCell>
         <mxCell id="T-1Ek754ZsedJuR4Ua0C-31" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Cache_Redis.svg;" vertex="1" parent="1">
           <mxGeometry x="58" y="398" width="64" height="52" as="geometry" />
@@ -117,6 +117,24 @@
         </mxCell>
         <mxCell id="T-1Ek754ZsedJuR4Ua0C-51" value="doris" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="251.25" y="457" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T-1Ek754ZsedJuR4Ua0C-52" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/monitor/SAP_Azure_Monitor.svg;" vertex="1" parent="1">
+          <mxGeometry x="578" y="586" width="55" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="T-1Ek754ZsedJuR4Ua0C-53" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/monitor/SAP_Azure_Monitor.svg;" vertex="1" parent="1">
+          <mxGeometry x="675" y="587" width="55" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="T-1Ek754ZsedJuR4Ua0C-54" value="alert manager" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="468.5" y="628" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T-1Ek754ZsedJuR4Ua0C-55" value="alert manager" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="578" y="627" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T-1Ek754ZsedJuR4Ua0C-56" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/other/Azure_Network_Function_Manager.svg;" vertex="1" parent="1">
+          <mxGeometry x="343.5" y="389" width="60" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="T-1Ek754ZsedJuR4Ua0C-58" value="MQ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="343.5" y="359" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
